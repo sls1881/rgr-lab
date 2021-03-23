@@ -1,9 +1,4 @@
 const capitalizeAndFilter = require('./cap-and-filter.js');
-// describe('', () => {
-//     it('', () => {
-
-//     });
-// });
 
 const arr = ['shelby', 'cherno', 'josie', 'ffs', 'fml'];
 
